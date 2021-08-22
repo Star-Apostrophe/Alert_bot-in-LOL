@@ -31,7 +31,7 @@ bot.send_message(chat_id=chat_id, text='Program is running..')
 
 # help
 def help(update, context):
-    context.bot.send_message(chat_id=chat_id, text='/help 도움 사항\n/사람 이름 플레이 상황\n(명령어:/me, /SY, /MS)')
+    context.bot.send_message(chat_id=chat_id, text='/help 도움 사항\n/사람 이름 플레이 상황\n(명령어:/me)')
 
 # Searching me
 def me(update, context):
