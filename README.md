@@ -17,7 +17,9 @@ This program is not completed. Thus, updating will be frequent.
 
 You need to..
 
-telegram
-riotwatcher
-updater
-comman-handler
+telegram/
+riotwatcher/
+updater/
+comman-handler/
+
+Required module will be able to added
